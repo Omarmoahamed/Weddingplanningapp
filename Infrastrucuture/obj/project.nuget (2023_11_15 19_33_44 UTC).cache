@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7apX0+Q0CdUdTUYxLaszPNoJB4DLMjV0rSfAulVc2taLTxBrw/H4O5KrSYWEVyc1ev0r6lxZPt4ZdRJ7z5fzYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar\\source\\repos\\Weddingplanner2\\Infrastrucuture\\Infrastrucuture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
