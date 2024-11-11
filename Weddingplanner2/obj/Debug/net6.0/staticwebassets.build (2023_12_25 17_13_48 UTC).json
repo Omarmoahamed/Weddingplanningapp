@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "rvj/oZBg0u1ZLzJ3OyKyherxV7b/UAzTDyAiCJHl85w=",
+  "Source": "Weddingplanner2",
+  "BasePath": "_content/Weddingplanner2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weddingplanner2\\wwwroot",
+      "Source": "Weddingplanner2",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\Weddingplanner2\\Weddingplanner2\\wwwroot\\",
+      "BasePath": "_content/Weddingplanner2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
