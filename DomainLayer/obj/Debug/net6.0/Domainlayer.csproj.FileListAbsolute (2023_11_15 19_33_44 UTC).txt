@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\bin\Debug\net6.0\Infrastrucuture.dll
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\bin\Debug\net6.0\Infrastrucuture.pdb
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CopyComplete
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\Omar\source\repos\Weddingplanner2\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
